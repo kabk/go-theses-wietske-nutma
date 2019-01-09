@@ -114,10 +114,11 @@ ul.submenu li a{
   font-size:70%;
 }
 
-.menu_text_intermission {
-  padding-left:30px;
-  font-family: 'Roboto Mono', monospace;
-  font-size:70%;
+.menu_text_end {
+	margin-top:10px;
+	padding-left:12px;
+	font-family: 'Roboto Mono', monospace;
+	font-size:57%;
 }
 
 /*Thesis Text*/
