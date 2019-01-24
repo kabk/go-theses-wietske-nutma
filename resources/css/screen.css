@@ -246,16 +246,15 @@ a:link {
 	color:grey;
 }
 
-
-
 img.size_1 {
 	display: block;
-	width: 381px;
-	height: 544px;
+	width: 387px;
+	height: 545px;
 	position: absolute;
 	margin-top: 0px;
 	opacity: 0;
 }
+
 
 img.size_2 {
 	display: block;
@@ -338,7 +337,7 @@ img.size_10 {
 	opacity: 0;
 }
 
-.image :hover .image_text {
+image :hover .image_text {
 	color: rgba(0, 0, 0, 0);
 }
 
